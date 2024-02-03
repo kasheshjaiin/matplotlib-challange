@@ -36,12 +36,6 @@ A linear regression model was fitted to explore the relationship between mouse w
 - Infubinol and Ceftamin exhibited higher variability in tumor volumes.
 - Gender distribution among mice is balanced.
 
-## Recommendations
-
-- Validate observed differences with statistical tests.
-- Collaborate with domain experts for biological insights.
-- Explore additional variables for a more comprehensive analysis.
-
 ## How to Use
 
 1. Clone the repository.
